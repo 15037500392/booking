@@ -47,4 +47,21 @@
 		font-size: 36rpx;
 		color: #8f8f94;
 	}
+  .table-wrap {
+    padding: 0 24px;
+    background: #fff;
+    box-sizing: border-box;
+
+  &-sale {
+     color: #ff574e;
+   }
+
+  &-design {
+     color: #3d6eff;
+   }
+
+  &-operate {
+     color: #616b88;
+   }
+  }
 </style>
